@@ -1,0 +1,7 @@
+{
+    "[c]": {
+        "editor.tabSize": 8,
+        "editor.indentSize": "tabSize",
+        "editor.detectIndentation": false
+    }
+}
